@@ -8,10 +8,10 @@ _About project_
 
 Netlify deployment:
 
-# 실행 화면
+# <모바일 version 실행화면>
 
-_<모바일 version>_
 <img src="mobile ver.png"/>
 
-_<데스크탑 version>_
+# <데스크탑 version 실행화면>
+
 <img src="desktop ver.png"/>
