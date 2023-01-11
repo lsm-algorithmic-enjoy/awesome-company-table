@@ -6,7 +6,7 @@ _About project_
 2. 모바일 버전을 위한 반응형 웹사이트 구현 (useMediaQuery 활용)
 3. 리액트 훅을 이용한 상태관리
 
-Netlify deployment:
+Netlify deployment: https://seungcompanytable.netlify.app/
 
 # <모바일 version 실행화면>
 
