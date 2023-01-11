@@ -88,7 +88,7 @@ export const EMPLOYEE_TABLE_COLUMNS = [
     key: "invited",
     render: (invited) =>
       invited ? (
-        <a style={{ color: "blue", textDecorationLine: "underline" }}>
+        <a href="/" style={{ color: "blue", textDecorationLine: "underline" }}>
           정보입력요청
         </a>
       ) : (
